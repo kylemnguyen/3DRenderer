@@ -1,0 +1,55 @@
+--------------------------------------------------------------------------------
+START
+--------------------------------------------------------------------------------
+Check script passed. Marking on 50%-100%
+--------------------------------------------------------------------------------
+Marking 'MS2'...
+Searching for test cases for: MS2
+7 test cases found for 'MS2' in '~/markcases'
+'assg_MS2' compiled successfully.
+
+Testing using '~/markcases/13_input.txt'...
+PPMCMP: 1.164406657218933
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/12_input.txt'...
+PPMCMP: 2.5307090282440186
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/11_input.txt'...
+PPMCMP: 11.93840217590332
+Retrying to try to account for environment differences
+PPMCMP: 11.93840217590332
+Error: output is incorrect:
+
+Testing using '~/markcases/17_input.txt'...
+PPMCMP: 6.550976753234863
+Retrying to try to account for environment differences
+PPMCMP: 6.550976753234863
+Error: output is incorrect:
+
+Testing using '~/markcases/16_input.txt'...
+PPMCMP: 78.74226379394531
+Retrying to try to account for environment differences
+PPMCMP: 78.74226379394531
+Error: output is incorrect:
+
+Testing using '~/markcases/15_input.txt'...
+PPMCMP: 3.3511860370635986
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/14_input.txt'...
+PPMCMP: 6.259104251861572
+Retrying to try to account for environment differences
+PPMCMP: 6.259104251861572
+Error: output is incorrect:
+--------------------------------------------------------------------------------
+END: Final grade: 7/10 = 70%
+--------------------------------------------------------------------------------
+
